@@ -54,10 +54,10 @@ export const Hero = () => {
                {...imageFallback('Bridal Package')} />
         </div>
         <div className="w-32 h-40 rounded-2xl overflow-hidden shadow-lg" style={{ marginTop: '28px' }}>
-          <img src="/images/bride-maid-bundle-4.jpeg"
-               alt="Bridesmaid Box"
+          <img src="/images/essential-bridal-box.jpeg"
+               alt="Essential Bridal Box"
                className="w-full h-full object-cover"
-               {...imageFallback('Bridesmaid Box')} />
+               {...imageFallback('Essential Bridal Box')} />
         </div>
         <div className="w-32 h-40 rounded-2xl overflow-hidden shadow-lg hidden sm:block">
           <img src="/images/bouquet.jpg"

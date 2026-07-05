@@ -52,10 +52,6 @@ export const AdminLogin = ({ onLogin }: AdminLoginProps) => {
             Login
           </button>
         </form>
-
-        <p className="text-xs text-gray-500 text-center mt-6">
-          Demo password: admin123
-        </p>
       </div>
     </div>
   );

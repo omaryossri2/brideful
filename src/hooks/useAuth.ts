@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const ADMIN_PASSWORD = 'admin123'; // In production, use environment variables
+const ADMIN_PASSWORD = 'sforsand'; // In production, use environment variables
 const AUTH_TOKEN_KEY = 'brideful_auth_token';
 const AUTH_EXPIRY = 24 * 60 * 60 * 1000; // 24 hours
 

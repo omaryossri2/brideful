@@ -132,14 +132,14 @@ const getDefaultProducts = (): Product[] => [
     name: 'Essential Bridal Box',
     description: 'Customized Fan, Mirror, Mug, Candle, Accessories Box',
     price: 1850,
-    image: '/images/bride-maid-bundle-6.jpeg',
+    image: '/images/essential-bridal-box.jpeg',
     category: 'Bridal'
   },
   {
     id: '8',
     name: 'Full Bridal Package',
-    description: 'Complete package: Fan, Mirror, Mug, Headband, Robe, Slippers',
-    price: 1850,
+    description: 'Complete package: Fan, Mug, Mirror, Bride Headband, Robe, Slippers',
+    price: 2900,
     image: '/images/full-bridal-package.jpeg',
     category: 'Bridal'
   },
